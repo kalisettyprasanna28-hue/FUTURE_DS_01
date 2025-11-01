@@ -97,7 +97,7 @@ It contains the following key fields:
 ## 🗂️ Files
 | File Name | Description |
 |------------|-------------|
-| TASK_01.pbix | Power BI Dashboard for creation and visualization  |
+| TASK_01.md | Power BI Dashboard for creation and visualization  |
 
 
 ## 🧠 Learnings
